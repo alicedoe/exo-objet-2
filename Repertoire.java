@@ -16,7 +16,6 @@ public class Repertoire {
 
     public ArrayList<Repertoire> repertoires;
     public String nom;
-    public int niveau;
 
     public Repertoire() {
         repertoires = new ArrayList<Repertoire>();
